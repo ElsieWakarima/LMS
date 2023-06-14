@@ -92,4 +92,4 @@ We welcome contributions from the community to enhance the LMS project. To contr
 
 ## Licensing
 
-This website is built by Elsie Wakarima
+This website is built by Elsie Wakarima.All rights reserved.
