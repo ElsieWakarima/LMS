@@ -11,7 +11,7 @@ LMS (Learning Management System) is a comprehensive platform designed to facilit
 ![preview](public/assets/preview.jpg)
 
 **Author(s) LinkedIn**:
-- [linkedin.com/in/elsie-wakarima/](LinkedIn profile link)
+- [Elsie Wakarima](linkedin.com/in/elsie-wakarima/)
 
 ## Installation
 
