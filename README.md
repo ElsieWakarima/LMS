@@ -6,7 +6,7 @@ README.md
 
 LMS (Learning Management System) is a comprehensive platform designed to facilitate online learning and course management. It provides educators and students with a centralized system to create, distribute, and manage educational content. LMS offers features such as course creation, student enrollment, assignment submission, grading, and communication tools.
 
-**Deployed Site**: [Link to the deployed site]
+
 
 ![preview](public/assets/preview.jpg)
 
